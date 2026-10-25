@@ -1,0 +1,9 @@
+# Never send these into the build
+**/node_modules
+**/dist
+**/target
+**/.env
+**/.env.*
+!**/.env.example
+.git
+.vscode
